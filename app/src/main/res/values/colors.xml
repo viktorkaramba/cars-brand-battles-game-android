@@ -7,4 +7,8 @@
 	<color name="teal_700">#FF018786</color>
 	<color name="black">#FF000000</color>
 	<color name="white">#FFFFFFFF</color>
+	<color name="background">#EEE191</color>
+	<color name="switch_track_off">#ff9933</color>
+	<color name="switch_thumb_off">#ddc422</color>
+	<color name="main">#CD6700</color>
 </resources>

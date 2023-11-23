@@ -1,10 +1,42 @@
 <resources>
 	<string name="app_name">CarBrandsBattles</string>
 	<string name="plus">Plus</string>
-<!-- TODO: Remove or change this placeholder text -->
 	<string name="hello_blank_fragment">Hello blank fragment</string>
 	<string name="username">Username</string>
 	<string name="new_battle">New Battle</string>
 	<string name="punishment">Punishment</string>
 	<string name="create">Create</string>
+	<string name="token_expired">Token expired</string>
+	<string name="you">You</string>
+	<string name="opponent">Opponent</string>
+	<string name="brand">Brand</string>
+	<string name="user_name_to_small">Username must have min 4 letters and max 16</string>
+	<string name="username_empty">Please input username</string>
+	<string name="user_password_to_small">Password must have min 8 letters and max 20</string>
+	<string name="user_password_empty">Please input password</string>
+	<string name="bad_credentials">"Bad credentials "</string>
+	<string name="invalid_user_credentials">Username or password not correct</string>
+	<string name="not_user">user not found</string>
+	<string name="log_in">Login</string>
+	<string name="password">Password</string>
+	<string name="no_register_yet">Not registered yet? Sign up</string>
+	<string name="name">Name</string>
+	<string name="registration">Registration</string>
+	<string name="register">Register</string>
+	<string name="already_register">Already registered? Login</string>
+	<string name="name_empty">Please input name</string>
+	<string name="name_to_small">Name must have min 4 letters and max 16</string>
+	<string name="user_already_exist">Username is already exist</string>
+	<string name="get_random_car_brand">GET RANDOM CAR BRAND</string>
+	<string name="Back">Back</string>
+	<string name="doubleDots">:</string>
+	<string name="top">Top</string>
+	<string name="score">Score</string>
+	<string name="app_logo">App logo</string>
+	<string name="car_brand_battles">Car Brand Battles</string>
+	<string name="_0">0</string>
+	<string name="finish">Finish</string>
+	<string name="create_battle_button">Create battle button</string>
+	<string name="all_battles">All battles</string>
+	<string name="my_battles">My battles</string>
 </resources>
